@@ -1,4 +1,4 @@
-order_id,product_id,Sales,Quantity,Discount,Profit
+order_id,product_id,sales,quantity,discount,profit
 CA-2013-152156,FUR-BO-10001798,261.96,2,0.0,41.9136
 CA-2013-152156,FUR-CH-10000454,731.94,3,0.0,219.582
 CA-2013-138688,OFF-LA-10000240,14.62,2,0.0,6.8714
